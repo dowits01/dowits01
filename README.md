@@ -1,6 +1,7 @@
 #  Hello, I'm Kyle Dowi Romero
 
-🎓 Recent Computer Engineering Graduate – CIT University, May 2025
+🎓 Recent Computer Engineering Graduate – CIT University, May 2025 
+
 💻 Aspiring Web Developer & Software Engineer
 
 

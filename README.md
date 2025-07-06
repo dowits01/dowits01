@@ -20,7 +20,7 @@
 
 ### 🚀 Projects
 - 🧾 [Expense Tracker (C#, .NET MVC)]
-- ☕ [Coffee Bean Sorter (React.js, Firebase)]
+- ☕ [Coffee Bean Sorter-Thesis Web-app(React.js, Firebase)]
 
 ---
 

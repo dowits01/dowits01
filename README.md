@@ -16,6 +16,11 @@
 
 - 🛠️ Git, GitHub, Visual Studio
 
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dowits01&layout=compact&theme=tokyonight)
+
+
 ---
 
 ### 🚀 Projects
